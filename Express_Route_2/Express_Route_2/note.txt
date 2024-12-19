@@ -1,0 +1,9 @@
+npm init -y
+npm i express
+
+API info
+
+API URL:http//127.0.0.1:8000/
+Method Type:get
+Required Fields:None
+Access Type: public
